@@ -9992,7 +9992,7 @@ h3 {
 .table-dark tbody + tbody {
     border-color: #dee2e6;
   }
-
+navbar-brand js-scroll-trigger
   .table .thead-dark th {
     color: inherit;
     border-color: #dee2e6;
@@ -10003,7 +10003,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 6.75;
 }
 
 .page-section {
